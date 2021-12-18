@@ -1,0 +1,25 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jazzymentary</title>
+    <link>/</link>
+    <description>Recent content on Jazzymentary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <managingEditor>j.godlesie@gmail.com (jgdlws)</managingEditor>
+    <webMaster>j.godlesie@gmail.com (jgdlws)</webMaster>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Jazzymentary</title>
+<link>/</link>
+<pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <author>j.godlesie@gmail.com (jgdlws)</author>
+      <guid>/</guid>
+<description>Strona główna</description>
+<category></category></item>
+    
+  </channel>
+</rss>

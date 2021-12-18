@@ -1,0 +1,17 @@
+main:
+  - identifier: histories
+    name: Historie
+    url: /histories
+    weight: 1
+  - identifier: artists
+    name: Artyści
+    url: /artists
+    weight: 2
+  - identifier: albums
+    name: Albumy
+    url: /albums
+    weight: 3
+  - indetifier: indeks
+    name: Indeks
+    url: /indeks
+    weight: 4

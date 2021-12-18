@@ -1,0 +1,48 @@
+description: "Wortal o Jazzie"
+color: "#edc166"
+#colorPickerEnabled: true
+copyright: "&copy; 2021-{now} jgdlws"
+#checksDarkMode: true
+#colorVariations:
+#  - name: violet
+#    color: 9400D3
+#  - name: indigo
+#    color: 1d48e1
+#  - name: blue
+#    color: 00D3F9
+#  - name: green
+#    color: 50d617
+#  - name: yellow
+#    color: edc166
+#  - name: orange
+#    color: ee6d45
+#  - name: red
+#    color: c92744
+footer:
+    - title: O mnie
+      content: Fascynat jazzu od 40 lat, który dopiero co odkrywa to, co przeoczył dotychczas.
+#      newsletter: Join the newsletter
+    - title: Ostatnie wpisy
+      recents: blog
+      recentCount: 7
+    - title: Kontakt
+      contact: true
+sharedHeader:
+  - blog
+sidebar:
+  - title: licencja
+    content: Nie uznaję licencji - to zawsze jakieś ograniczenie. Możesz korzystać z tych treści bez żadnych ograniczeń.
+#comment:
+#    sheet: 1gzXCakB9twLVlni9yuSZtQBNyp1ae_q_F1eqmPYekVc
+#    form: 1FAIpQLSdjkSleb2kSkQGWebNU7ZTPT7osqjj0EPc0g6Zl4Qud--jAaw
+#    email: emailAddress
+#    name: entry.1199094986
+#    post: entry.524983228
+#    comment: entry.8861571
+#newsletter:
+#  action: https://atishay.us20.list-manage.com/subscribe/post?u=5a8e4f4c993f2eae750b5922e&amp;id=72ec4151d0
+#  email: EMAIL
+#  honeypot: b_5a8e4f4c993f2eae750b5922e_72ec4151d0
+contact:
+  response: Dziękuję za kontakt. Twoja wiadomość została wysłana. Odpowiem najszybciej jak to możliwe.
+  responseError: Coś poszło nie tak. Proszę skontaktować się bezpośrednio via email.

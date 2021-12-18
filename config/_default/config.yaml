@@ -1,5 +1,4 @@
-baseURL: http://example.org/
-languageCode: pl-pl
-title: Linementary
-theme: eclectic-hugo-theme
- 
+#baseURL: http://example.org/
+languageCode: "pl"
+title: "Jazzymentary"
+theme: "eclectic-hugo-theme"
